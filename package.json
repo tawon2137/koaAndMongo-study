@@ -1,26 +1,26 @@
 {
-  "name": "koaandmongostudy",
-  "version": "1.0.0",
-  "description": "node.js koa framework and mongoDB study",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tawon2137/koaAndMongo-study.git"
-  },
-  "keywords": [
-    "node"
-  ],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/tawon2137/koaAndMongo-study/issues"
-  },
-  "homepage": "https://github.com/tawon2137/koaAndMongo-study#readme",
-  "dependencies": {
-    "koa": "^2.3.0",
-    "koa-jwt": "^3.2.2"
-  }
+    "name": "koa-mongodb-study",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tawon2137/koaAndMongo-study.git"
+    },
+    "keywords": [
+        "node"
+    ],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/tawon2137/koaAndMongo-study/issues"
+    },
+    "homepage": "https://github.com/tawon2137/koaAndMongo-study#readme",
+    "dependencies": {
+        "koa": "^2.3.0",
+        "koa-jwt": "^3.2.2"
+    }
 }
